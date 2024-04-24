@@ -1,0 +1,8 @@
+# Lumenity 5 specific
+vendor
+.idea
+.phpunit.result.cache
+
+# Lumenity 4 specific
+.env
+node_modules
