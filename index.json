@@ -1,0 +1,750 @@
+[
+    {
+        "image": "https://www.unja.ac.id/wp-content/uploads/2023/02/logo-kampus-mengajar-3_kampus-mengajar-PNG-1200x367-1.png",
+        "background": "https://mbkm-ipbi.ac.id/wp-content/uploads/2022/11/mbkm-farel-1536x864.jpg",
+        "title": "Kampus Mengajar",
+        "name": "Kampus Mengajar",
+        "description": "Bantu peningkatan kualitas pendidikan dasar dengan terlibat langsung pada proses pengajaran di sekolah-sekolah yang berlokasi di seluruh daerah di Indonesia.",
+        "tentang": {
+            "url": "https://kampusmerdeka.kemdikbud.go.id/program/mengajar",
+            "data": [
+                {
+                    "title": "Apa itu Kampus Mengajar?",
+                    "type": "description",
+                    "data": [
+                        {
+                            "title": "Kampus Mengajar merupakan kanal pembelajaran yang memberikan kesempatan kepada mahasiswa untuk belajar di luar kampus selama satu semester guna melatih kemampuan menyelesaikan permasalahan yang kompleks dengan menjadi mitra guru untuk berinovasi dalam pembelajaran, pengembangan strategi, dan model pembelajaran yang kreatif, inovatif, dan menyenangkan."
+                        }
+                    ]
+                },
+                {
+                    "title": "Kenapa ikut Kampus Mengajar?",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Terlibat langsung sebagai mitra guru, kepala sekolah, dan tenaga kependidikan di sekolah sasaran dalam menyusun dan melaksanakan strategi pembelajaran di sekolah yang kreatif, inovatif, dan menyenangkan"
+                        },
+                        {
+                            "title": "Berkesempatan memiliki pengalaman dalam mengeksplorasi program yang beragam sesuai dengan kebutuhan sekolah"
+                        },
+                        {
+                            "title": "Berkontribusi secara langsung sebagai agen perubahan dalam pendidikan Indonesia"
+                        },
+                        {
+                            "title": "Mengasah jiwa kepemimpinan, pemecahan masalah, kemampuan komunikasi, berpikir analitis, kreativitas, dan inovasi langsung dari lapangan"
+                        },
+                        {
+                            "title": "Menambah jejaring pertemanan dengan sesama mahasiswa di sekolah penempatan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Siapa saja yang dapat mengikuti program ini ?",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mahasiswa dari seluruh Indonesia tanpa memandang ras, warna kulit, jenis kelamin, bahasa, agama, serta situasi ekonomi dan sosial lainnya."
+                        },
+                        {
+                            "title": "Mahasiswa aktif program studi S1/D4/D3 yang terakreditasi pada Perguruan Tinggi Negeri (PTN) dan Perguruan Tinggi Swasta (PTS) di bawah naungan Kemendikbudristek."
+                        },
+                        {
+                            "title": "Mahasiswa berada di minimal semester 4 (empat) pada saat pelaksanaan program."
+                        },
+                        {
+                            "title": "Memiliki Indeks Prestasi Kumulatif (IPK) minimal 3,00."
+                        },
+                        {
+                            "title": "Belum pernah ditetapkan sebagai peserta program Kampus Mengajar angkatan sebelumnya."
+                        },
+                        {
+                            "title": "Data mahasiswa terdaftar di PDDikti dan memiliki kesesuaian antara nama di PDDikti dengan nama di KTP."
+                        }
+                    ]
+                },
+                {
+                    "title": "Apakah ada ketentuan lainnya?",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mahasiswa diharapkan menjalani program secara penuh waktu dan mengikuti program hingga selesai."
+                        },
+                        {
+                            "title": "Mahasiswa penerima beasiswa Bidikmsi, KIPK, Unggulan, Beasiswa Indonesia Maju, dan beasiswa lain yang bersumber dari Kemendikbudristek dapat mengikuti program Kampus Mengajar dengan ketentuan bantuan biaya hidup dan bantuan biaya kuliah diberikan sesuai dengan ketentuan yang tertera di dalam Buku Panduan Kampus Mengajar."
+                        }
+                    ]
+                }
+            ]
+        },
+        "syarat": {
+            "url": "https://kampusmerdeka.kemdikbud.go.id/program/mengajar/syarat-ketentuan",
+            "data": [
+                {
+                    "title": "Persyaratan Mahasiswa",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mahasiswa dari seluruh Indonesia tanpa memandang ras, warna kulit, jenis kelamin, bahasa, agama, serta situasi ekonomi dan sosial lainnya. Mahasiswa aktif program studi S1/D4/D3 yang terakreditasi pada Perguruan Tinggi Negeri (PTN) dan Perguruan Tinggi Swasta (PTS) di bawah naungan Kemendikbudristek."
+                        },
+                        {
+                            "title": "Mahasiswa berada di minimal semester 4 (empat) pada saat pelaksanaan program."
+                        },
+                        {
+                            "title": "Memiliki Indeks Prestasi Kumulatif (IPK) minimal 3,00."
+                        },
+                        {
+                            "title": "Belum pernah ditetapkan sebagai peserta program Kampus Mengajar angkatan sebelumnya."
+                        },
+                        {
+                            "title": "Data mahasiswa terdaftar di PDDikti dan memiliki kesesuaian antara nama di PDDikti dengan nama di KTP."
+                        }
+                    ]
+                },
+                {
+                    "title": "Apakah ada ketentuan lainnya?",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mahasiswa diharapkan menjalani program secara penuh waktu dan mengikuti program hingga selesai."
+                        },
+                        {
+                            "title": "Mahasiswa penerima beasiswa Bidikmsi, KIPK, Unggulan, Beasiswa Indonesia Maju, dan beasiswa lain yang bersumber dari Kemendikbudristek dapat mengikuti program Kampus Mengajar dengan ketentuan bantuan biaya hidup dan bantuan biaya kuliah diberikan sesuai dengan ketentuan yang tertera di dalam Buku Panduan Kampus Mengajar."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "image": "https://www.its.ac.id/pwk/wp-content/uploads/sites/35/2022/12/MSIB.png",
+        "background": "https://connect-assets.prosple.com/cdn/ff/Vo8v_VAFNAHvJVNg9qA2-WPmssoVpSqRd_VFvcNp3-s/1650008689/public/styles/scale_890_no_upsize/public/2022-04/thumbnail-article-magang-merdeka-2022.jpg?itok=9dKGSJ-K",
+        "title": "Magang",
+        "name": "Magang",
+        "description": "Dapatkan pengalaman dunia kerja secara langsung sebagai persiapan kariermu.",
+        "tentang": {
+            "url": "https://kampusmerdeka.kemdikbud.go.id/program/magang/detail",
+            "data": [
+                {
+                    "title": "Apa itu Magang?",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mendaftarkan diri dalam proses penerimaan mahasiswa magang"
+                        },
+                        {
+                            "title": "Terlibat langsung dalam aktivitas internal institusi tempat magang"
+                        },
+                        {
+                            "title": "Mendapatkan ilmu yang relevan dari institusi tempat magang"
+                        }
+                    ]
+                },
+                {
+                    "title": "Yang akan kamu dapatkan dari kegiatan Magang",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Peluang yang lebih besar untuk diterima sebagai karyawan di tempat magang"
+                        },
+                        {
+                            "title": "Pengalaman kerja yang berharga untuk digunakan setelah lulus dari Universitas"
+                        },
+                        {
+                            "title": "Pengetahuan tentang praktik terbaik dalam Industri dan Sektor yang diminati"
+                        },
+                        {
+                            "title": "Jaringan dan hubungan  dalam industri tempat magang"
+                        }
+                    ]
+                },
+                {
+                    "title": "Linimasa kegiatan",
+                    "type": "roadmap",
+                    "data": [
+                        {
+                            "title": "Mahasiswa melakukan pendaftaran ke program yang diminati melalui platform Kampus Merdeka dan mengumpulkan dokumennya secara lengkap pada saat pendaftaran",
+                            "date": "01 November - 15 Desember 2023"
+                        },
+                        {
+                            "title": "Verifikasi Berkas Administrasi Mahasiswa",
+                            "date": "01 November - 31 Desember 2023"
+                        },
+                        {
+                            "title": "Mitra menyeleksi Mahasiswa dan melakukan offering pada platform",
+                            "date": "01 - 31 Januari 2024"
+                        },
+                        {
+                            "title": "Pelaksanaan program",
+                            "date": "16 Februari - 30 Juni 2024"
+                        }
+                    ]
+                }
+            ]
+        },
+        "syarat": {
+            "url": "https://kampusmerdeka.kemdikbud.go.id/program/magang/syarat-ketentuan",
+            "data": [
+                {
+                    "title": "Persyaratan Dokumen",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Curriculum Vitae",
+                            "description": "Tidak ada template baku untuk dokumen ini, namun dimohon menggunakan format file pdf. Mahasiswa dapat membuatnya dengan kreativitas masing-masing."
+                        },
+                        {
+                            "title": "Transkrip Nilai",
+                            "description": "Transkrip nilai terbaru. Jika transkrip terbaru belum tersedia, silakan gunakan transkrip terakhir lalu perbarui dokumen melalui menu “Lengkapi Dokumen” di akun Mahasiswa ketika transkrip baru sudah ada."
+                        },
+                        {
+                            "title": "Surat Rekomendasi Universitas",
+                            "description": "Surat Rekomendasi yang ditandatangani oleh (Rektor/Ketua/Direktur, Wakil Rektor/Wakil Ketua/Wakil Direktur/Dekan/Wakil Dekan atau pejabat lain sesuai ketentuan yang berlaku di masing-masing perguruan tinggi)"
+                        },
+                        {
+                            "title": "Surat Pernyataan Tanggungjawab Mutlak (SPTJM)",
+                            "description": "SPTJM Mahasiswa yang ditandatangani oleh (Rektor/Ketua/Direktur, Wakil Rektor/Wakil Ketua/Wakil Direktur/Dekan/Wakil Dekan atau pejabat lain sesuai ketentuan yang berlaku di masing-masing perguruan tinggi)"
+                        },
+                        {
+                            "title": "Foto / Scan KTP",
+                            "description": "Pastikan hasil scan jelas dan tidak buram."
+                        },
+                        {
+                            "title": "Sertifikat pengalaman organisasi (opsional)",
+                            "description": "Jika ingin melampirkan beberapa sertifikat, silakan menggabungkannya menjadi satu file .PDF dengan ukuran maksimal 5MB."
+                        }
+                    ]
+                },
+                {
+                    "title": "Persyaratan Mahasiswa",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mahasiswa dari seluruh Indonesia tanpa memandang ras, warna kulit, jenis kelamin, bahasa, agama, serta situasi ekonomi dan sosial lainnya. Mahasiswa dari semua jurusan dengan akreditasi kampus apapun di Indonesia - dengan catatan kampus berada di bawah Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi."
+                        },
+                        {
+                            "title": "Mahasiswa aktif pada jenjang D2/D3/D4/S1 atau belum yudisium serta bersedia untuk tidak yudisium selama jangka waktu MSIB berlangsung dengan ketentuan semester sebagai berikut pada saat mendaftar program MSIB: untuk mahasiswa D2/D3/D4 minimal semester 5, sementara untuk mahasiswa S1 minimal semester 4"
+                        },
+                        {
+                            "title": "Data Mahasiswa terdaftar di PDDikti dan memiliki kesesuaian antara nama di PDDikti dengan nama di KTP. Mahasiswa dengan Nomor Induk Siswa Nasional (NISN) yang terdaftar di Dapodik dan sudah diverifikasi di akun Kampus Merdeka."
+                        }
+                    ]
+                },
+                {
+                    "title": "Apakah ada ketentuan lainnya?",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mahasiswa diharapkan menjalani program secara penuh waktu (fulltime) serta berkomitmen untuk melaksanakan dan menyelesaikan program MSIB hingga selesai."
+                        },
+                        {
+                            "title": "Siap melakukan perjalanan lintas kabupaten/ kota/ provinsi jika diperlukan sesuai penempatan yang ditetapkan oleh Mitra serta bersedia melakukan vaksinasi booster untuk keperluan mobilisasi."
+                        },
+                        {
+                            "title": "Mahasiswa penerima beasiswa Bidik Misi/penerima KIP (Kartu Indonesia Pintar)/penerima beasiswa lainnya dari Kemendikbudristek  dapat mengikuti program magang dengan ketentuan  besaran bantuan biaya hidup yang diterima merupakan selisih dari  bantuan biaya hidup yang diterima dari  beasiswa kemdikbudristek."
+                        },
+                        {
+                            "title": "Menyatakan diri untuk bisa berkomitmen selama menjalani program."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "image": "https://www.its.ac.id/pwk/wp-content/uploads/sites/35/2022/12/MSIB.png",
+        "background": "https://i0.wp.com/ruangmahasiswa.com/wp-content/uploads/2021/12/program-magang-mahasiswa-thumbnail.jpg?w=750&ssl=1",
+        "title": "Studi Independen",
+        "name": "Studi Independen",
+        "description": "Jalankan proyek penelitian dengan studi kasus nyata dari para pelaku industri ternama.",
+        "tentang": {
+            "url": "https://kampusmerdeka.kemdikbud.go.id/program/studi-independen/detail",
+            "data": [
+                {
+                    "title": "Apa itu Studi Independen?",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mempelajari kompetensi yang spesifik, praktis, dan dibutuhkan di masa depan"
+                        },
+                        {
+                            "title": "Berinteraksi dengan para pakar untuk memahami penerapannya"
+                        },
+                        {
+                            "title": "Mempraktekkan kompetensi tersebut dalam sebuah proyek riil"
+                        }
+                    ]
+                },
+                {
+                    "title": "Yang akan kamu dapatkan dari kegiatan Studi Independen",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Ilmu praktis dan sertifikasi yang sesuai kebutuhan industri"
+                        },
+                        {
+                            "title": "Kesempatan untuk masuk ke dalam jalur karir yang diinginkan"
+                        },
+                        {
+                            "title": "Pengalaman mengimplementasikan ilmu sesuai standar industri"
+                        },
+                        {
+                            "title": "Berjejaring dengan pihak yang relevan dengan karir pilihanmu"
+                        }
+                    ]
+                },
+                {
+                    "title": "Linimasa kegiatan",
+                    "type": "roadmap",
+                    "data": [
+                        {
+                            "title": "Mahasiswa melakukan pendaftaran ke program yang diminati melalui platform Kampus Merdeka dan mengumpulkan dokumennya secara lengkap pada saat pendaftaran",
+                            "date": "01 November - 15 Desember 2023"
+                        },
+                        {
+                            "title": "Verifikasi Berkas Administrasi Mahasiswa",
+                            "date": "01 November - 31 Desember 2023"
+                        },
+                        {
+                            "title": "Mitra menyeleksi Mahasiswa dan melakukan offering pada platform",
+                            "date": "01 - 31 Januari 2024"
+                        },
+                        {
+                            "title": "Pelaksanaan program",
+                            "date": "16 Februari - 30 Juni 2024"
+                        }
+                    ]
+                }
+            ]
+        },
+        "syarat": {
+            "url": "https://kampusmerdeka.kemdikbud.go.id/program/studi/syarat-ketentuan",
+            "data": [
+                {
+                    "title": "Persyaratan Dokumen",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Curriculum Vitae",
+                            "description": "Tidak ada template baku untuk dokumen ini, namun dimohon menggunakan format file pdf. Mahasiswa dapat membuatnya dengan kreativitas masing-masing."
+                        },
+                        {
+                            "title": "Transkrip Nilai",
+                            "description": "Transkrip nilai terbaru. Jika transkrip terbaru belum tersedia, silakan gunakan transkrip terakhir lalu perbarui dokumen melalui menu “Lengkapi Dokumen” di akun Mahasiswa ketika transkrip baru sudah ada."
+                        },
+                        {
+                            "title": "Foto / Scan KTP",
+                            "description": "Pastikan hasil scan jelas dan tidak buram."
+                        },
+                        {
+                            "title": "Sertifikat pengalaman organisasi (opsional)",
+                            "description": "Jika ingin melampirkan beberapa sertifikat, silakan menggabungkannya menjadi satu file .PDF dengan ukuran maksimal 5MB."
+                        }
+                    ]
+                },
+                {
+                    "title": "Persyaratan Mahasiswa",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mahasiswa dari seluruh Indonesia tanpa memandang ras, warna kulit, jenis kelamin, bahasa, agama, serta situasi ekonomi dan sosial lainnya. Mahasiswa dari semua jurusan dengan akreditasi kampus apapun di Indonesia - dengan catatan kampus berada di bawah Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi."
+                        },
+                        {
+                            "title": "Mahasiswa aktif pada jenjang D2/D3/D4/S1 atau belum yudisium serta bersedia untuk tidak yudisium selama jangka waktu MSIB berlangsung dengan ketentuan semester sebagai berikut pada saat mendaftar program MSIB: untuk mahasiswa D2/D3/D4 minimal semester 5, sementara untuk mahasiswa S1 minimal semester 4"
+                        },
+                        {
+                            "title": "Data Mahasiswa terdaftar di PDDikti dan memiliki kesesuaian antara nama di PDDikti dengan nama di KTP. Mahasiswa dengan Nomor Induk Siswa Nasional (NISN) yang terdaftar di Dapodik dan sudah diverifikasi di akun Kampus Merdeka."
+                        }
+                    ]
+                },
+                {
+                    "title": "Apakah ada ketentuan lainnya?",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mahasiswa diharapkan menjalani program secara penuh waktu (fulltime) serta berkomitmen untuk melaksanakan dan menyelesaikan program MSIB hingga selesai."
+                        },
+                        {
+                            "title": "Siap melakukan perjalanan lintas kabupaten/ kota/ provinsi jika diperlukan sesuai penempatan yang ditetapkan oleh Mitra serta bersedia melakukan vaksinasi booster untuk keperluan mobilisasi."
+                        },
+                        {
+                            "title": "Mahasiswa penerima beasiswa Bidik Misi/penerima KIP (Kartu Indonesia Pintar)/penerima beasiswa lainnya dari Kemendikbudristek  dapat mengikuti program magang dengan ketentuan  besaran bantuan biaya hidup yang diterima merupakan selisih dari  bantuan biaya hidup yang diterima dari  beasiswa kemdikbudristek."
+                        },
+                        {
+                            "title": "Menyatakan diri untuk bisa berkomitmen selama menjalani program."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "image": "https://pusatinformasi.kampusmerdeka.kemdikbud.go.id/hc/article_attachments/9398330566937/c76f917849c927845f9d4da1b07da14aa1e39ef1.png",
+        "background": "https://pmm.kampusmerdeka.kemdikbud.go.id/files/pmm/slide-1.png",
+        "title": "Pertukaran Mahasiswa Merdeka",
+        "name": "PMM Mandiri",
+        "description": "Program pertukaran mahasiswa dalam negeri yang memberikan pengalaman langsung untuk lebih memaknai keberagaman budaya nusantara.",
+        "tentang": {
+            "url": "https://pmm.kampusmerdeka.kemdikbud.go.id/pages/info/program/pmm_4/",
+            "data": [
+                {
+                    "title": "TENTANG PERTUKARAN MAHASISWA MERDEKA",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Mengeksplor & mempelajari keberagaman budaya nusantara"
+                        },
+                        {
+                            "title": "Berteman dengan mahasiswa dari berbagai daerah"
+                        },
+                        {
+                            "title": "Kesempatan belajar di kampus lain di Indonesia"
+                        }
+                    ]
+                },
+                {
+                    "title": "LINIMASA PROGRAM PMM 4",
+                    "type": "roadmap",
+                    "data": [
+                        {
+                            "title": "Sosialisasi PT Penerima",
+                            "date": "Oktober 2023"
+                        },
+                        {
+                            "title": "Pendaftaran dan Seleksi PT Penerima",
+                            "date": "Oktober 2023"
+                        },
+                        {
+                            "title": "Pendaftaran dan Survai Kebinekaan Calon Mahasiswa PMM 4",
+                            "date": "Oktober - Desember 2023"
+                        },
+                        {
+                            "title": "Seleksi Mahasiswa PMM 4",
+                            "date": "Desember 2023"
+                        },
+                        {
+                            "title": "Pengumuman dan Administrasi Mahasiswa PMM 4",
+                            "date": "Desember 2023"
+                        }
+                    ]
+                }
+            ]
+        },
+        "syarat": {
+            "url": "https://pusatinformasi.kampusmerdeka.kemdikbud.go.id/hc/en-us/articles/9200035628953-Persyaratan-dan-Dokumen-Pendaftaran-Mahasiswa-Pertukaran-Mahasiswa-Merdeka-PMM-3",
+            "data": [
+                {
+                    "title": "Mahasiswa yang akan mendaftar Pertukaran Mahasiswa Merdeka (PMM 3) harus memenuhi persyaratan sebagai berikut",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Merupakan mahasiswa aktif D3, D4, atau S1 yang terdaftar di Pangkalan Data Pendidikan Tinggi (PDDIKTI)"
+                        },
+                        {
+                            "title": "Minimal semester 2 (dua) pada saat pendaftaran berlangsung"
+                        },
+                        {
+                            "title": "PT Pengirim mahasiswa berada di bawah koordinasi Kemendikbudristek"
+                        },
+                        {
+                            "title": "Memiliki IPK minimal 2,8 dari skala 4 pada saat periode pendaftaran Program PMM 3. Mahasiswa dapat melampirkan dokumen transkrip akademik semester terakhir pada saat pendaftaran"
+                        },
+                        {
+                            "title": "Merupakan Warga Negara Indonesia (WNI) dan memiliki Nomor Induk Kependudukan (NIK). Pada saat pendaftaran mahasiswa dapat melampirkan hasil scan dokumen kependudukan seperti KTP atau Kartu Keluarga"
+                        },
+                        {
+                            "title": "Membuat Surat Pernyataan Tanggung Jawab Mutlak (SPTJM) Mahasiswa sesuai template yang disediakan pada laman pendaftaran"
+                        },
+                        {
+                            "title": "Telah melakukan vaksin COVID-19 minimal dosis ketiga. Silakan melampirkan screenshot riwayat vaksin COVID-19 saat mendaftar"
+                        },
+                        {
+                            "title": "Sehat jasmani dibuktikan dengan melampirkan Surat Keterangan Sehat dari fasilitas kesehatan yang berwenang"
+                        },
+                        {
+                            "title": "Memiliki rekening aktif BRI atau BSI. Silakan lampirkan hasil scan buku tabungan atas nama mahasiswa bersangkutan saat pendaftaran"
+                        },
+                        {
+                            "title": "Diutamakan memiliki asuransi BPJS Kesehatan atau asuransi kesehatan lainnya yang menjamin rawat inap dan rawat jalan atas nama mahasiswa."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "image": "https://lh6.googleusercontent.com/mQhDtsERW60V4k2QsOU8M3YmNOJ2fK6y5gthnF9V8oQWcPiZQhPl-JopnDNrh3LGVECk5tChiA63VGpy0Dh-SHNyhPP3_GboOYAybbKyZhPT-18NIVVdIhU0QlRs23YT8AvUmFPDNdLZSt9tLE7jmvw",
+        "background": "https://wirausahamerdeka.kampusmerdeka.kemdikbud.go.id/assets/img/photos/0D7A1690.jpg",
+        "title": "Wirausaha Merdeka",
+        "name": "Wirausaha Merdeka",
+        "description": "Ikuti program unggulan dari berbagai Perguruan Tinggi yang bertujuan untuk meningkatkan kemampuan wirausaha.",
+        "tentang": {
+            "url": "https://wirausahamerdeka.kampusmerdeka.kemdikbud.go.id/info/",
+            "data": [
+                {
+                    "title": "Tentang Wirausaha Merdeka",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Wirausaha Merdeka adalah bagian dari program Kampus Merdeka Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Indonesia yang memberikan kesempatan kepada mahasiswa belajar dan mengembangkan diri menjadi calon wirausahawan melalui aktivitas di luar kelas perkuliahan."
+                        },
+                        {
+                            "title": "Program Wirausaha Merdeka berkolaborasi dengan Perguruan Tinggi Pelaksana Program mengembangkan pembelajaran wirausaha yang mampu mengasah jiwa kewirausahaan, mendorong peningkatan pengalaman wirausaha dan peningkatan kemampuan daya kerja mahasiswa."
+                        }
+                    ]
+                },
+                {
+                    "title": "Tujuan Program",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Memantik minat dan semangat mahasiswa dalam berwirausaha"
+                        },
+                        {
+                            "title": "Menanamkan mindset dan kompetensi dasar di bidang kewirausahaan"
+                        },
+                        {
+                            "title": "Mendorong peningkatan pengalaman wirausaha mahasiswa"
+                        },
+                        {
+                            "title": "Meningkatan kemampuan daya kerja mahasiswa"
+                        },
+                        {
+                            "title": "Membantu meningkatkan kapasitas dan kualitas lulusan Perguruan Tinggi"
+                        }
+                    ]
+                }
+            ]
+        },
+        "syarat": null
+    },
+    {
+        "image": "https://www.uii.ac.id/wp-content/uploads/2022/03/logo-iisma-uii.jpg",
+        "background": "https://kampusmerdeka.kemdikbud.go.id/static/media/magang.mobile.7aa0b027.webp",
+        "title": "Indonesian International Student Mobility Awards",
+        "name": "IISMA",
+        "description": "Program pertukaran dengan universitas lain dari seluruh dunia untuk bertukar budaya.",
+        "tentang": {
+            "url": "https://iisma.kemdikbud.go.id/info/",
+            "data": [
+                {
+                    "title": "About IISMA",
+                    "type": "description",
+                    "data": [
+                        {
+                            "title": "Indonesian International Student Mobility Awards (IISMA) is a scholarship scheme by the Ministry of Education, Culture, Research, and Technology of the Republic of Indonesia to fund Indonesian students for a one semester-mobility program at top universities and reputable industries overseas. Offering two schemes for undergraduate and vocational students, IISMA will expose Indonesian students to international academic and cultural diversity."
+                        }
+                    ]
+                },
+                {
+                    "title": "Scholarship Coverage",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Registration and Tuition Fee"
+                        },
+                        {
+                            "title": "PCR, Quarantine, and Health Insurance (Covering COVID)"
+                        },
+                        {
+                            "title": "Settlement and Living Allowance"
+                        },
+                        {
+                            "title": "Economy Airfare and Visa"
+                        },
+                        {
+                            "title": "Emergency Fund"
+                        }
+                    ]
+                }
+            ]
+        },
+        "syarat": {
+            "url": "https://kampusmerdeka.kemdikbud.go.id/program/iisma/syarat-ketentuan",
+            "data": [
+                {
+                    "title": "Persyaratan Dokumen",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Surat Rekomendasi",
+                            "description": "Surat rekomendasi yang telah ditandatangani oleh Kepala Urusan Internasional atau Wakil Rektor Bagian Akademik."
+                        },
+                        {
+                            "title": "Sertifikat Kemampuan Bahasa Inggris",
+                            "description": "Sertifikat kemampuan bahasa Inggris (IELTS/TOEFL-iBT/Duolingo)."
+                        },
+                        {
+                            "title": "Transkrip Akademik",
+                            "description": "Transkrip akademik dalam bahasa Inggris."
+                        },
+                        {
+                            "title": "Surat Pernyataan perihal Mobilitas",
+                            "description": "Surat pernyataan belum pernah melakukan mobilitas internasional secara fisik/luring."
+                        },
+                        {
+                            "title": "Surat Pernyataan Bebas Narkoba",
+                            "description": "Surat pernyataan bebas narkoba dan zat adiktif lainnya."
+                        },
+                        {
+                            "title": "Surat Pernyataan perihal Kekerasan Seksual",
+                            "description": "Surat pernyataan tidak pernah terlibat dalam kekerasan seksual."
+                        }
+                    ]
+                },
+                {
+                    "title": "Persyaratan Mahasiswa",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Terdaftar sebagai mahasiswa aktif jenjang S1 perguruan tinggi dalam negeri di bawah Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek) selama proses pendaftaran dan program berlangsung."
+                        },
+                        {
+                            "title": "Merupakan warga negara Indonesia yang menetap di Indonesia dan tidak memiliki status berkewarganegaraan ganda."
+                        },
+                        {
+                            "title": "Sedang menempuh pendidikan di semester 4 maupun 6 jenjang S1 ketika mendaftar."
+                        },
+                        {
+                            "title": "Maksimal berusia 23 tahun pada bulan Juli di tiap tahun program berlangsung."
+                        },
+                        {
+                            "title": "Tidak pernah mengambil cuti semester selama berkuliah."
+                        },
+                        {
+                            "title": "Tidak pernah berpartisipasi dalam kegiatan mobilitas internasional secara fisik termasuk Summer/Winter Program, Internship, Exchange, Credit Mobility, Sit-in, Dual/double degree selama berkuliah."
+                        },
+                        {
+                            "title": "Memiliki IPK minimal 3.0 (dari 4.0) dibuktikan dengan transkrip akademik terakhir."
+                        },
+                        {
+                            "title": "Memiliki nilai sertifikasi bahasa Inggris yang cukup, yaitu IELTS – 6.0, TOEFL iBT – 78, Duolingo English Test – 100"
+                        },
+                        {
+                            "title": "Dinominasikan oleh Wakil rektor bidang Akademik dari perguruan tinggi masing-masing."
+                        },
+                        {
+                            "title": "Tidak menerima biaya hidup/tunjangan hidup dari Kemendikbudristek dan Lembaga Pengelola Dana Pendidikan (LPDP) selama mengikuti program IISMA."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "image": "https://pusatinformasi.praktisimengajar.id/hc/article_attachments/6835286539033",
+        "background": "https://praktisimengajar.id/static/media/main.78e8c55caf3b4fb13c69.jpg",
+        "title": "Praktisi Mengajar",
+        "name": "Praktisi Mengajar",
+        "description": "Ruang kolaborasi antara Praktisi sebagai representasi industri dengan dosen Perguruan Tinggi dalam bentuk pengajaran mata kuliah agar mahasiswa lebih siap untuk masuk ke dunia kerja.",
+        "tentang": {
+            "url": "https://praktisimengajar.id/",
+            "data": [
+                {
+                    "title": "Tentang Praktisi Mengajar",
+                    "type": "description",
+                    "data": [
+                        {
+                            "title": "Praktisi Mengajar adalah Program yang diinisiasi oleh Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia agar lulusan perguruan tinggi lebih siap untuk masuk ke dunia kerja. Program ini mendorong kolaborasi aktif praktisi ahli dengan dosen juara agar tercipta pertukaran ilmu dan keahlian yang mendalam dan bermakna antar sivitas akademika di perguruan tinggi dan profesional di dunia kerja. Kolaborasi ini dilakukan dalam mata kuliah yang disampaikan di ruang kelas baik secara luring maupun daring."
+                        }
+                    ]
+                },
+                {
+                    "title": "Tujuan Praktisi Mengajar",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Menutup kesenjangan kompetensi lulusan baru dengan kebutuhan dunia kerja"
+                        },
+                        {
+                            "title": "Mendorong kolaborasi perguruan tinggi dan industri dalam menyelenggarakan pembelajaran praktis dan aplikatif."
+                        },
+                        {
+                            "title": "Meningkatkan relevansi skill lulusan perguruan tinggi Indonesia dengan kebutuhan dunia kerja dan industri"
+                        }
+                    ]
+                }
+            ]
+        },
+        "syarat": null
+    },
+    {
+        "image": "https://prasetya.ub.ac.id/wp-content/uploads/2021/01/25-program-bangkit-kemendikbud-2021.png",
+        "background": "https://lh3.googleusercontent.com/28k1aMaYQ7d8KQrWYKFZKbAjuAh6rtJIWF1YJBMjiMEODnBDduBQVoKTv5GjeOklALRzEe8mGd7GoOjHDHajm9uQngzM-kOL-2sEUWLa5t1xvyvHW6A=w2880",
+        "title": "Bangkit by Google, GoTo, and Traveloka",
+        "name": "Bangkit",
+        "description": "Program kesiapan karier spesifik dengan 3 pilihan program, yaitu Machine Learning, Mobile Development, dan Cloud Computing.",
+        "tentang": {
+            "url": "https://grow.google/intl/id_id/bangkit/?tab=machine-learning",
+            "data": [
+                {
+                    "title": "Bangkit",
+                    "type": "description",
+                    "data": [
+                        {
+                            "title": "Dirancang untuk mempersiapkan siswa dengan keterampilan yang dibutuhkan dan sertifikasi teknologi, kurikulum Bangkit menawarkan 3 jalur pembelajaran interdisipliner - pembelajaran mesin, pengembangan seluler, dan komputasi awan. Di akhir program ini, Anda akan dibekali dengan keahlian teknologi, soft skill, dan kemahiran bahasa Inggris yang Anda perlukan untuk berpindah dari dunia akademis ke dunia kerja dan meraih kesuksesan di perusahaan terkemuka."
+                        }
+                    ]
+                },
+                {
+                    "title": "Growing world-class tech talent in Indonesia with Kampus Merdeka",
+                    "type": "description",
+                    "data": [
+                        {
+                            "title": "Tahun ini, Bangkit ditawarkan sebagai program Studi Independen Bersertifikat Kampus Merdeka yang didukung oleh Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi Republik Indonesia. Sepanjang 2 (dua) semester, kami mendaftarkan minimal 9.000 mahasiswa di 3 jalur pembelajaran untuk membantu mereka mengembangkan keterampilan yang dibutuhkan di bidang teknologi dan mempersiapkan mereka untuk mengambil sertifikasi Google. Program ini berjalan sepanjang semester genap dan ganjil."
+                        }
+                    ]
+                },
+                {
+                    "title": "Mengapa bergabung dengan Bangkit?",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Dapatkan hingga 20 SKS untuk gelar Anda"
+                        },
+                        {
+                            "title": "Dapatkan sertifikasi Google untuk membuktikan keahlian Anda"
+                        },
+                        {
+                            "title": "Peluang kerja di mitra perekrutan Bangkit"
+                        },
+                        {
+                            "title": "Kesempatan untuk menjadi tim terbaik terpilih untuk menerima dana inkubasi untuk proyek batu penjuru Anda"
+                        }
+                    ]
+                }
+            ]
+        },
+        "syarat": null
+    },
+    {
+        "image": "https://karirlab-prod-bucket.s3.ap-southeast-1.amazonaws.com/files/privates/LWCfRt9IAvyranH0GDxY4USqiSyL3KA5wjob3OZ0.png",
+        "background": "https://petrominer.com/wp-content/uploads/Plts-atap-475-kwp-di-pltgu-tenayan-riau-696x392.jpg",
+        "title": "Kementerian ESDM - GERILYA",
+        "name": "GERILYA",
+        "description": "Kembangkan kompetensi di bidang energi bersih dan terbarukan melalui program Studi Independen yang diinisiasi oleh Kementrian Energi dan Sumber Daya Mineral.",
+        "tentang": {
+            "url": "https://www.esdm.go.id/id/page/gerilya",
+            "data": [
+                {
+                    "title": "Gerakan Inisiatif Listrik Tenaga Surya (Gerilya) Batch 4",
+                    "type": "point",
+                    "data": [
+                        {
+                            "title": "Program Magang dan Studi Independen Bersertifikat (MSIB) Gerakan Inisiatif Listrik Tenaga Surya (GERILYA) merupakan program yang disiapkan oleh Kementerian Energi dan Sumber Daya Mineral untuk diimplementasikan pada Merdeka Belajar Kampus Merdeka Kementerian Pendidikan Kebudayaan, Riset dan Teknologi."
+                        },
+                        {
+                            "title": "MSIB Gerilya adalah program magang yang diakselerasikan dengan pengalaman belajar yang dirancang dan dibuat khusus berdasarkan tantangan nyata yang dihadapi oleh mitra/industri."
+                        },
+                        {
+                            "title": "MSIB Gerilya menyediakan ruang bagi mahasiswa untuk mendapatkan pengalaman dalam mengetahui dunia profesi dan menciptakan tenaga kerja yang professional khususnya di bidang industri energi terbarukan. Mahasiswa yang hendak lulus disediakan tempat dan program pengembangan untuk memasuki dunia kariernya."
+                        },
+                        {
+                            "title": "GERILYA ditujukan bagi mahasiswa eksakta minimal semester-6 untuk mengikuti studi independen yang setara dengan 10-20 SKS (tergantung persetujuan Universitas)."
+                        }
+                    ]
+                }
+            ]
+        },
+        "syarat": null
+    }
+]
